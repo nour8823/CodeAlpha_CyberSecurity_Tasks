@@ -9,7 +9,7 @@ This alternate version demonstrates secure login with different users and improv
 - Alternate example with different credentials
 
 ## 🧪 Users
-- sarah / LoveCoding@123
+- nour / nour123
 - emma / Sunshine456!
 
 ## 📦 Installation
